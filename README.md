@@ -39,7 +39,7 @@ You’ll be dropped into a prompt where you can type commands!
 ## 🚀 Features
 
 - ✅ Launch external programs (like `ls`, `cat`, `grep`)
-- ✅ Handle built-in commands (`cd`, `pwd`, `echo`)
+- ✅ Handle built-in commands (`exit`, `type`, `echo`)
 - ✅ Basic error handling
 - ✅ Simple REPL loop
 - 🛠 More coming soon: piping (`|`), redirection (`>`, `<`), job control, scripting support!
